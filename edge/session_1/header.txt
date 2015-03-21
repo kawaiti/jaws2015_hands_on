@@ -1,0 +1,3 @@
+string,string,number,number,number
+annotation,raw,x,y,z
+
