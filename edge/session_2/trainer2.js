@@ -31,7 +31,7 @@ timer = setInterval(function()
       var annotation = "rest";
       if(k) {
         work = work + 1;
-        annotation = k;
+        annotation = "work";
       } else {
         rest = rest + 1;
       }
